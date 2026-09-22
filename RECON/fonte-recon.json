@@ -1,0 +1,289 @@
+{
+  "label": "fonte",
+  "url": "http://127.0.0.1:8765/RECON/especime-fonte.html",
+  "capturedAt": "2026-09-22T13:10:45.497Z",
+  "console": {
+    "errors": [],
+    "warnings": [],
+    "pageErrors": []
+  },
+  "navigation": [
+    {
+      "viewport": 1440,
+      "recovered": false,
+      "url": "http://127.0.0.1:8765/RECON/especime-fonte.html",
+      "readyState": "interactive"
+    },
+    {
+      "viewport": 768,
+      "recovered": false,
+      "url": "http://127.0.0.1:8765/RECON/especime-fonte.html",
+      "readyState": "complete"
+    },
+    {
+      "viewport": 390,
+      "recovered": false,
+      "url": "http://127.0.0.1:8765/RECON/especime-fonte.html",
+      "readyState": "complete"
+    }
+  ],
+  "captures": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "screenshot": "screenshots\\fonte-1440.png",
+      "signals": {
+        "href": "http://127.0.0.1:8765/RECON/especime-fonte.html",
+        "title": "",
+        "lang": "",
+        "bodyTextChars": 204,
+        "scrollHeight": 900,
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "h1": [],
+        "headings": [],
+        "metaDescription": "",
+        "counts": {
+          "links": 0,
+          "images": 0,
+          "video": 0,
+          "canvas": 0,
+          "sections": 0,
+          "forms": 0,
+          "buttons": 0,
+          "inputs": 0,
+          "interactive": 0,
+          "scripts": 0,
+          "stylesheets": 1
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [],
+        "stylesheets": [
+          "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,600..900,0..100,0..1&display=swap"
+        ],
+        "sections": [],
+        "cssVariables": [],
+        "rootVariables": [],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(248, 249, 250)",
+            "color": "rgb(15, 23, 42)",
+            "borderColor": "rgb(15, 23, 42)",
+            "fontFamily": "system-ui",
+            "backgroundImage": ""
+          },
+          "header": null,
+          "nav": null,
+          "main": null,
+          "footer": null,
+          "buttons": []
+        },
+        "motion": {
+          "htmlScrollBehavior": "auto",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 0,
+          "stickyOrFixedCount": 0
+        },
+        "fonts": [
+          "Fraunces",
+          "Fraunces",
+          "Fraunces"
+        ],
+        "fontFaces": [],
+        "resources": {
+          "images": [
+            "http://127.0.0.1:8765/favicon.ico"
+          ],
+          "fonts": [],
+          "media": []
+        },
+        "images": [],
+        "canvases": []
+      }
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "screenshot": "screenshots\\fonte-768.png",
+      "signals": {
+        "href": "http://127.0.0.1:8765/RECON/especime-fonte.html",
+        "title": "",
+        "lang": "",
+        "bodyTextChars": 204,
+        "scrollHeight": 900,
+        "viewport": {
+          "width": 768,
+          "height": 900
+        },
+        "h1": [],
+        "headings": [],
+        "metaDescription": "",
+        "counts": {
+          "links": 0,
+          "images": 0,
+          "video": 0,
+          "canvas": 0,
+          "sections": 0,
+          "forms": 0,
+          "buttons": 0,
+          "inputs": 0,
+          "interactive": 0,
+          "scripts": 0,
+          "stylesheets": 1
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [],
+        "stylesheets": [
+          "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,600..900,0..100,0..1&display=swap"
+        ],
+        "sections": [],
+        "cssVariables": [],
+        "rootVariables": [],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(248, 249, 250)",
+            "color": "rgb(15, 23, 42)",
+            "borderColor": "rgb(15, 23, 42)",
+            "fontFamily": "system-ui",
+            "backgroundImage": ""
+          },
+          "header": null,
+          "nav": null,
+          "main": null,
+          "footer": null,
+          "buttons": []
+        },
+        "motion": {
+          "htmlScrollBehavior": "auto",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 0,
+          "stickyOrFixedCount": 0
+        },
+        "fonts": [
+          "Fraunces",
+          "Fraunces",
+          "Fraunces"
+        ],
+        "fontFaces": [],
+        "resources": {
+          "images": [],
+          "fonts": [],
+          "media": []
+        },
+        "images": [],
+        "canvases": []
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "screenshot": "screenshots\\fonte-390.png",
+      "signals": {
+        "href": "http://127.0.0.1:8765/RECON/especime-fonte.html",
+        "title": "",
+        "lang": "",
+        "bodyTextChars": 204,
+        "scrollHeight": 900,
+        "viewport": {
+          "width": 390,
+          "height": 900
+        },
+        "h1": [],
+        "headings": [],
+        "metaDescription": "",
+        "counts": {
+          "links": 0,
+          "images": 0,
+          "video": 0,
+          "canvas": 0,
+          "sections": 0,
+          "forms": 0,
+          "buttons": 0,
+          "inputs": 0,
+          "interactive": 0,
+          "scripts": 0,
+          "stylesheets": 1
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [],
+        "stylesheets": [
+          "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,600..900,0..100,0..1&display=swap"
+        ],
+        "sections": [],
+        "cssVariables": [],
+        "rootVariables": [],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(248, 249, 250)",
+            "color": "rgb(15, 23, 42)",
+            "borderColor": "rgb(15, 23, 42)",
+            "fontFamily": "system-ui",
+            "backgroundImage": ""
+          },
+          "header": null,
+          "nav": null,
+          "main": null,
+          "footer": null,
+          "buttons": []
+        },
+        "motion": {
+          "htmlScrollBehavior": "auto",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 0,
+          "stickyOrFixedCount": 0
+        },
+        "fonts": [
+          "Fraunces",
+          "Fraunces",
+          "Fraunces"
+        ],
+        "fontFaces": [],
+        "resources": {
+          "images": [],
+          "fonts": [],
+          "media": []
+        },
+        "images": [],
+        "canvases": []
+      }
+    }
+  ]
+}

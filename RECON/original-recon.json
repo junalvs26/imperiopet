@@ -1,0 +1,353 @@
+{
+  "label": "original",
+  "url": "https://www.petlove.com.br/",
+  "capturedAt": "2026-09-22T12:45:22.562Z",
+  "console": {
+    "errors": [],
+    "warnings": [],
+    "pageErrors": []
+  },
+  "navigation": [
+    {
+      "viewport": 1440,
+      "recovered": false,
+      "url": "https://www.petlove.com.br/",
+      "readyState": "interactive"
+    },
+    {
+      "viewport": 768,
+      "recovered": false,
+      "url": "https://www.petlove.com.br/",
+      "readyState": "interactive"
+    },
+    {
+      "viewport": 390,
+      "recovered": false,
+      "url": "https://www.petlove.com.br/",
+      "readyState": "interactive"
+    }
+  ],
+  "captures": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "screenshot": "screenshots\\original-1440.png",
+      "signals": {
+        "href": "https://www.petlove.com.br/",
+        "title": "Um momento…",
+        "lang": "en-US",
+        "bodyTextChars": 279,
+        "scrollHeight": 900,
+        "viewport": {
+          "width": 1440,
+          "height": 900
+        },
+        "h1": [
+          "www.petlove.com.br"
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "www.petlove.com.br"
+          },
+          {
+            "tag": "h2",
+            "text": "Executando verificação de segurança"
+          },
+          {
+            "tag": "h2",
+            "text": "Verificação bem-sucedida. Esperando a resposta de www.petlove.com.br"
+          }
+        ],
+        "metaDescription": "",
+        "counts": {
+          "links": 2,
+          "images": 1,
+          "video": 0,
+          "canvas": 0,
+          "sections": 0,
+          "forms": 0,
+          "buttons": 0,
+          "inputs": 1,
+          "interactive": 3,
+          "scripts": 2,
+          "stylesheets": 0
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "https://www.petlove.com.br/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a3f1672caa3caa89",
+          "https://challenges.cloudflare.com/turnstile/v0/g/330e41bb475c/api.js?onload=khCN8&render=explicit"
+        ],
+        "stylesheets": [],
+        "sections": [],
+        "cssVariables": [],
+        "rootVariables": [],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(0, 0, 0)",
+            "color": "rgb(242, 242, 242)",
+            "borderColor": "rgb(242, 242, 242)",
+            "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "backgroundImage": ""
+          },
+          "header": null,
+          "nav": null,
+          "main": null,
+          "footer": null,
+          "buttons": []
+        },
+        "motion": {
+          "htmlScrollBehavior": "auto",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 0,
+          "stickyOrFixedCount": 0
+        },
+        "fonts": [],
+        "fontFaces": [],
+        "resources": {
+          "images": [
+            "https://www.petlove.com.br/favicon.ico"
+          ],
+          "fonts": [],
+          "media": []
+        },
+        "images": [
+          {
+            "src": "https://www.petlove.com.br/favicon.ico",
+            "srcset": "",
+            "alt": "Ícone de www.petlove.com.br",
+            "width": 0,
+            "height": 0
+          }
+        ],
+        "canvases": []
+      }
+    },
+    {
+      "viewport": {
+        "width": 768,
+        "height": 900
+      },
+      "screenshot": "screenshots\\original-768.png",
+      "signals": {
+        "href": "https://www.petlove.com.br/",
+        "title": "Um momento…",
+        "lang": "en-US",
+        "bodyTextChars": 279,
+        "scrollHeight": 900,
+        "viewport": {
+          "width": 768,
+          "height": 900
+        },
+        "h1": [
+          "www.petlove.com.br"
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "www.petlove.com.br"
+          },
+          {
+            "tag": "h2",
+            "text": "Executando verificação de segurança"
+          },
+          {
+            "tag": "h2",
+            "text": "Verificação bem-sucedida. Esperando a resposta de www.petlove.com.br"
+          }
+        ],
+        "metaDescription": "",
+        "counts": {
+          "links": 2,
+          "images": 1,
+          "video": 0,
+          "canvas": 0,
+          "sections": 0,
+          "forms": 0,
+          "buttons": 0,
+          "inputs": 1,
+          "interactive": 3,
+          "scripts": 2,
+          "stylesheets": 0
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "https://www.petlove.com.br/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a3f16776fe09aa89",
+          "https://challenges.cloudflare.com/turnstile/v0/g/330e41bb475c/api.js?onload=khCN8&render=explicit"
+        ],
+        "stylesheets": [],
+        "sections": [],
+        "cssVariables": [],
+        "rootVariables": [],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(0, 0, 0)",
+            "color": "rgb(242, 242, 242)",
+            "borderColor": "rgb(242, 242, 242)",
+            "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "backgroundImage": ""
+          },
+          "header": null,
+          "nav": null,
+          "main": null,
+          "footer": null,
+          "buttons": []
+        },
+        "motion": {
+          "htmlScrollBehavior": "auto",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 0,
+          "stickyOrFixedCount": 0
+        },
+        "fonts": [],
+        "fontFaces": [],
+        "resources": {
+          "images": [
+            "https://www.petlove.com.br/favicon.ico"
+          ],
+          "fonts": [],
+          "media": []
+        },
+        "images": [
+          {
+            "src": "https://www.petlove.com.br/favicon.ico",
+            "srcset": "",
+            "alt": "Ícone de www.petlove.com.br",
+            "width": 0,
+            "height": 0
+          }
+        ],
+        "canvases": []
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 900
+      },
+      "screenshot": "screenshots\\original-390.png",
+      "signals": {
+        "href": "https://www.petlove.com.br/",
+        "title": "Um momento…",
+        "lang": "en-US",
+        "bodyTextChars": 279,
+        "scrollHeight": 900,
+        "viewport": {
+          "width": 390,
+          "height": 900
+        },
+        "h1": [
+          "www.petlove.com.br"
+        ],
+        "headings": [
+          {
+            "tag": "h1",
+            "text": "www.petlove.com.br"
+          },
+          {
+            "tag": "h2",
+            "text": "Executando verificação de segurança"
+          },
+          {
+            "tag": "h2",
+            "text": "Verificação bem-sucedida. Esperando a resposta de www.petlove.com.br"
+          }
+        ],
+        "metaDescription": "",
+        "counts": {
+          "links": 2,
+          "images": 1,
+          "video": 0,
+          "canvas": 0,
+          "sections": 0,
+          "forms": 0,
+          "buttons": 0,
+          "inputs": 1,
+          "interactive": 3,
+          "scripts": 2,
+          "stylesheets": 0
+        },
+        "frameworks": {
+          "react": false,
+          "next": false,
+          "vue": false,
+          "nuxt": false,
+          "svelte": false,
+          "astro": false,
+          "three": false,
+          "gsap": false,
+          "lenis": false
+        },
+        "scripts": [
+          "https://www.petlove.com.br/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=a3f167bf69e4aa89",
+          "https://challenges.cloudflare.com/turnstile/v0/g/330e41bb475c/api.js?onload=khCN8&render=explicit"
+        ],
+        "stylesheets": [],
+        "sections": [],
+        "cssVariables": [],
+        "rootVariables": [],
+        "palette": {
+          "body": {
+            "backgroundColor": "rgb(0, 0, 0)",
+            "color": "rgb(242, 242, 242)",
+            "borderColor": "rgb(242, 242, 242)",
+            "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+            "backgroundImage": ""
+          },
+          "header": null,
+          "nav": null,
+          "main": null,
+          "footer": null,
+          "buttons": []
+        },
+        "motion": {
+          "htmlScrollBehavior": "auto",
+          "scrollSnapRules": 0,
+          "smoothScrollRules": 0,
+          "stickyOrFixedCount": 0
+        },
+        "fonts": [],
+        "fontFaces": [],
+        "resources": {
+          "images": [
+            "https://www.petlove.com.br/favicon.ico"
+          ],
+          "fonts": [],
+          "media": []
+        },
+        "images": [
+          {
+            "src": "https://www.petlove.com.br/favicon.ico",
+            "srcset": "",
+            "alt": "Ícone de www.petlove.com.br",
+            "width": 0,
+            "height": 0
+          }
+        ],
+        "canvases": []
+      }
+    }
+  ]
+}
